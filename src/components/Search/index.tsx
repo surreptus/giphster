@@ -25,4 +25,6 @@ const Search: FC<Props> = ({ onChange }) => {
   )
 }
 
+Search.displayName = 'Search'
+
 export default Search

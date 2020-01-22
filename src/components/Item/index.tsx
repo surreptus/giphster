@@ -22,7 +22,7 @@ const Item: FC<Props> = ({ gif }) => {
   const handleClick = () => show(gif)
 
   /**
-   *
+   * changes the status of the item to success, removing the overlay
    */
 
   const handleLoad = () => setStatus('success')
@@ -48,5 +48,7 @@ const Item: FC<Props> = ({ gif }) => {
     </div>
   )
 }
+
+Item.displayName = 'Item'
 
 export default Item

@@ -19,4 +19,6 @@ const Grid: FC<Props> = ({ items }) => {
   )
 }
 
+Grid.displayName = 'Grid'
+
 export default Grid

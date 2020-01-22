@@ -2,6 +2,8 @@ import React, { FC, useState } from 'react'
 
 import { useModal } from 'support/contexts/modal'
 
+import Loading from 'components/Loading'
+
 import './styles.css';
 
 interface Props {
@@ -40,7 +42,7 @@ const Item: FC<Props> = ({ gif }) => {
         />
 
         <div className={`${pendingClassname} item__pending`}>
-          <div className='dot-flashing' />
+          <Loading />
         </div>
       </div>
     </div>

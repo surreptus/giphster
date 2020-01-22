@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19c160e6e41e9c2ed2ba1b9c7b970ae2",
+    "revision": "d770e722fdb8d56ef09aa9f9e9e0385f",
     "url": "/giphster/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/giphster/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "4ddfc6bf213099971b00",
-    "url": "/giphster/static/css/main.2fda0205.chunk.css"
+    "revision": "108659d1fe8c869b9ef1",
+    "url": "/giphster/static/css/main.dd419946.chunk.css"
   },
   {
     "revision": "22db8be2ddc2fbfe49f9",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/giphster/static/js/2.8543630f.chunk.js.LICENSE"
   },
   {
-    "revision": "4ddfc6bf213099971b00",
-    "url": "/giphster/static/js/main.4d7510cb.chunk.js"
+    "revision": "108659d1fe8c869b9ef1",
+    "url": "/giphster/static/js/main.75b16031.chunk.js"
   },
   {
     "revision": "44f45d043ee200d6bbc0",

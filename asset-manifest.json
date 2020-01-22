@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/giphster/static/css/main.2fda0205.chunk.css",
+    "main.js": "/giphster/static/js/main.4d7510cb.chunk.js",
+    "main.js.map": "/giphster/static/js/main.4d7510cb.chunk.js.map",
+    "runtime-main.js": "/giphster/static/js/runtime-main.1566389d.js",
+    "runtime-main.js.map": "/giphster/static/js/runtime-main.1566389d.js.map",
+    "static/css/2.764ccc25.chunk.css": "/giphster/static/css/2.764ccc25.chunk.css",
+    "static/js/2.8543630f.chunk.js": "/giphster/static/js/2.8543630f.chunk.js",
+    "static/js/2.8543630f.chunk.js.map": "/giphster/static/js/2.8543630f.chunk.js.map",
+    "index.html": "/giphster/index.html",
+    "precache-manifest.7c54d8f5ef3e4eb62d09184dc74e43a6.js": "/giphster/precache-manifest.7c54d8f5ef3e4eb62d09184dc74e43a6.js",
+    "service-worker.js": "/giphster/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/giphster/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.2fda0205.chunk.css.map": "/giphster/static/css/main.2fda0205.chunk.css.map",
+    "static/js/2.8543630f.chunk.js.LICENSE": "/giphster/static/js/2.8543630f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1566389d.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.8543630f.chunk.js",
+    "static/css/main.2fda0205.chunk.css",
+    "static/js/main.4d7510cb.chunk.js"
+  ]
+}

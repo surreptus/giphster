@@ -14,11 +14,11 @@ export const ModalContext = createContext<Context>({
 })
 
 export const ModalManager: FC = ({ children }) => {
-  const [item, setItem] = useState()
+  const [item, setItem] = useState<Gif | undefined>()
 
   const show = (gif: Gif) => setItem(gif)
 
-  const hide = () => setItem(null)
+  const hide = () => setItem(undefined)
 
   return (
     <ModalContext.Provider value={{show, hide, item}}>
